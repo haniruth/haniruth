@@ -245,7 +245,7 @@ I am particularly interested in research where I can combine practical implement
 
 ## Repository Philosophy
 
-I use GitHub to present cleaned research and coursework-derived projects as reproducible public artifacts. For each major project, I aim to include:
+I use GitHub to present cleaned research-facing projects as reproducible public artifacts. For each major project, I aim to include:
 
 - Clear problem statement
 - Method summary
@@ -255,7 +255,7 @@ I use GitHub to present cleaned research and coursework-derived projects as repr
 - Honest limitations
 - Future improvement directions
 
-Some datasets and model checkpoints are excluded from public repositories due to licensing, size, or coursework constraints.
+Some datasets and model checkpoints are excluded from public repositories due to licensing, size, or project-release constraints.
 
 ---
 
